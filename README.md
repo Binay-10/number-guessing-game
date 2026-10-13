@@ -279,7 +279,7 @@ The `screenshots/` directory contains visual execution evidence:
 ---
 
 ## 24. Author Information
-- **Author**: Student Developer
+- **Author**: Binay-10
 - **Course**: Python Programming Fundamentals
 - **Project**: Number Guessing Game Console Application
 
